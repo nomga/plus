@@ -23,6 +23,10 @@ int main(void)
 				{
 					printf("overlap \n");
 				}
+				if (i != j);
+				{
+					printf("no overlap \n");
+				}
 			}
 		}
 	}
